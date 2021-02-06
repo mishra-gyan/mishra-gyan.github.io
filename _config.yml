@@ -25,9 +25,10 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Java
+ - Agile
  - Product management
  - API design
- - SQL
+ - SQL (Sybase, DB2)
  - REST
  - Pega
  - Technical Architecture
@@ -44,11 +45,6 @@ roles:
    end: Ongoing
    employer: Morgan Stanley
    description: Oversee, Support and manage Tech leads for extending Morgan Stanley’s Institutional Client KYC and Client Onboarding platform.
- - title: Executive Director
-   start: 2016
-   end: 2018
-   employer: Morgan Stanley
-   description: Led the global team of 30 developers and regional leads in building and integrating the Client allocation system for equity and FID products
  - title: Executive Director
    start: 2014
    end: 2016
@@ -130,8 +126,8 @@ education:
 #    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an engineer manager with 18 years experience working in technology. I have primarily worked in Banking and Financial institions primarily in middle office, regulatory and compliance division. <br/><br/>
-  I am highly collanborative and innovative in building highly scalable distributed applications with a passion for first-in-class engineering principles, clean extensible interfaces,, code simplicity, system maintainability and testability. <br/><br/>
+  I am an engineer manager with 18 years experience working in technology. I have primarily worked in Banking and Financial institutions in middle office, regulatory and compliance division. <br/><br/>
+  I am highly collaborative and innovative in building highly scalable distributed applications with a passion for first-in-class engineering principles, clean extensible interfaces,, code simplicity, system maintainability and testability. <br/><br/>
   I am well versed in building consensus, thinking big picture and handling ambiguity. I am also an empathetic leader who believes in the immense potential of investing in people and teamwork. <br/><br/>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
