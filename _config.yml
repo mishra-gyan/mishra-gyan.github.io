@@ -11,7 +11,7 @@ markdown: kramdown
 primarylinks:
  - title: GitHub
    url: https://github.com/mishra-gyan
- - linketitle: LinkedIn
+ - title: LinkedIn
    url: https://www.linkedin.com/in/mishragyan/
 
 #Any buzzword skills you want to include
@@ -33,20 +33,10 @@ skills:
 #Work experience is required
 roles:
  - title: Executive Director
-   start: 2016
+   start: 2007
    end: Ongoing
    employer: Morgan Stanley (NY)
    description: Oversee, Support and manage Tech leads for extending Morgan Stanley’s Institutional Client KYC and Client Onboarding platform.
- - title: Executive Director
-   start: 2014
-   end: 2016
-   employer: Morgan Stanley (Bangalore)
-   description: Provided local leadership to setup a new team in Bangalore and expanded the foot print of the super department in the region by participating in campus and lateral hiring events.
- - title: Associate/VP/ED
-   start: 2007
-   end: 2014
-   employer: Morgan Stanley
-   description: Worked as a team lead managing the NY and Montreal team of 6 for Securities Allocation System in Core equity.
  - title: Senior Associate
    start: 2006
    end: 2007
@@ -119,7 +109,7 @@ education:
 
 intro: |
   I am an engineer manager with 18 years experience working in technology. I have primarily worked in Banking and Financial institutions in middle office, regulatory and compliance division. <br/><br/>
-  I am highly collaborative and innovative in building highly scalable distributed applications with a passion for first-in-class engineering principles, clean extensible interfaces,, code simplicity, system maintainability and testability. <br/><br/>
+  I am highly collaborative and innovative in building highly scalable distributed applications with a passion for first-in-class engineering principles, clean extensible interfaces, code simplicity, system maintainability and testability. <br/><br/>
   I am well versed in building consensus, thinking big picture and handling ambiguity. I am also an empathetic leader who believes in the immense potential of investing in people and teamwork. <br/><br/>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
