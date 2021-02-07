@@ -9,18 +9,10 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- #- title: Blog
-  # url: https://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/mishra-gyan
- #- title: StackOverflow
- #  url: https://stackoverflow.com/users/258813/rhinds
- #- title: DZone
- #  url: https://dzone.com/users/899489/rhinds.html
  - linketitle: LinkedIn
    url: https://www.linkedin.com/in/mishragyan/
- #- title: Food
-  # url: https://www.robbishfood.com/
 
 #Any buzzword skills you want to include
 skills:
@@ -41,9 +33,9 @@ skills:
 #Work experience is required
 roles:
  - title: Executive Director
-   start: 2006
+   start: 2016
    end: Ongoing
-   employer: Morgan Stanley
+   employer: Morgan Stanley (NY)
    description: Oversee, Support and manage Tech leads for extending Morgan Stanley’s Institutional Client KYC and Client Onboarding platform.
  - title: Executive Director
    start: 2014
@@ -52,7 +44,7 @@ roles:
    description: Provided local leadership to setup a new team in Bangalore and expanded the foot print of the super department in the region by participating in campus and lateral hiring events.
  - title: Associate/VP/ED
    start: 2007
-   end: 2016
+   end: 2014
    employer: Morgan Stanley
    description: Worked as a team lead managing the NY and Montreal team of 6 for Securities Allocation System in Core equity.
  - title: Senior Associate
@@ -131,5 +123,5 @@ intro: |
   I am well versed in building consensus, thinking big picture and handling ambiguity. I am also an empathetic leader who believes in the immense potential of investing in people and teamwork. <br/><br/>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Client Onboarding and KYC</strong>: In my current role Responsible for overall technical design and delivery of renovated platform to achieve Sustainable state program for Data and Document refresh for clients in scope for KYC. Key goal of the project were to meet a commitment to Federal Reserve bank to achieve timely completion of KYC regulations.<br/><br/>
+   <strong>Client Onboarding and KYC</strong>: In my current role I am responsible for overall technical design and delivery of renovated platform to achieve Sustainable state program for Data and Document refresh for clients in scope for KYC. Key goal of the project were to meet a commitment to Federal Reserve bank to achieve timely completion of KYC regulations.<br/><br/>
    
