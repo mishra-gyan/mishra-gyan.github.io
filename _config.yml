@@ -1,7 +1,9 @@
 # Site settings
 title: Gyan Mishra
 twitter_username: GyanMishra3
+email: gyan.mishra@gmail.com
 name: Gyan Mishra
+location: Millburn, NJ
 
 # Build settings
 markdown: kramdown
@@ -61,7 +63,7 @@ education:
    date: 2002
    subject: Computer Science
    school: University of Mumbai
- - level: Master of Computer Applications(MCA)
+ - level: Master of Computer Applications
    date: 2005
    subject: Computer Applications
    school: IGNOU

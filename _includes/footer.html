@@ -1,8 +1,13 @@
 <footer>
 	<hr size="3">
+	{% if site.email %}
+	<p><a target='_blank' href="mailto:{{site.email}}">Email me</a></p>
+	{% endif %}
 	{% if site.twitter_username %}
 		<p><a target='_blank' href="https://twitter.com/{{site.twitter_username}}">@{{site.twitter_username}}</a></p>
 	{% endif %}
-	<p>Millburn, USA</p>
+	{% if site.location %}
+	<p>{{site.location}}</p>
+	{% endif %}
 	<br>
 </footer>
