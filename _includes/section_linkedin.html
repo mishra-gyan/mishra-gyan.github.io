@@ -1,0 +1,14 @@
+{% if site.linkedinprofile %}
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="rounded_panel txt_lightgrey">
+    <div class="top-rounded-panel grey-bg" >
+        <h1>Linked In Profile</h1>
+    </div>
+    <div class="content-rounded-panel">
+        <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="mishragyan">
+            <a class="LI-simple-link" href='{{site.linkedinprofile.profileurl}}'>Gyan Mishra</a>
+        </div>
+
+    </div>
+</div>
+{% endif %}
