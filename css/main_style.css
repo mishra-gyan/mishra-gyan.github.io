@@ -414,3 +414,9 @@ td.loginRow {
 .github-box {
 	margin-top: 15px;
 }
+
+.no_decoration {
+    text-decoration: none !important;
+    color:black;
+
+}

@@ -13,8 +13,6 @@ markdown: kramdown
 primarylinks:
  - title: GitHub
    url: https://github.com/mishra-gyan
- - title: LinkedIn
-   url: https://www.linkedin.com/in/mishragyan/
  - title: Resume
    url: https://github.com/mishra-gyan/mishra-gyan.github.io/raw/master/Gyan%20Resume.pdf
 
@@ -24,7 +22,7 @@ skills:
  - Agile
  - Product management
  - API design
- - SQL (Sybase, DB2)
+ - SQL
  - REST
  - Pega
  - Technical Architecture
@@ -32,7 +30,7 @@ skills:
  - Microservices
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -107,9 +105,12 @@ education:
 #  - robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
-# stackoverflow:
+#stackoverflow:
 #    profileurl: https://stackoverflow.com/users/258813/rhinds
 #    flairimageurl: https://stackoverflow.com/users/flair/258813.png
+
+linkedinprofile:
+     profileurl: https://www.linkedin.com/in/mishragyan?trk=profile-badge
 
 intro: |
   I am an engineer manager with 18 years experience working in technology. I have primarily worked in Banking and Financial institutions in middle office, regulatory and compliance division. <br/><br/>
