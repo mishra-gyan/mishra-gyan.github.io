@@ -1,13 +1,24 @@
 <footer>
-	<hr size="3">
+	<hr size="2">
+	<p>
 	{% if site.email %}
-	<p><a target='_blank' href="mailto:{{site.email}}">Email me</a></p>
+	<a target='_blank' href="mailto:{{site.email}}">Email</a>
 	{% endif %}
+
 	{% if site.twitter_username %}
-		<p><a target='_blank' href="https://twitter.com/{{site.twitter_username}}">@{{site.twitter_username}}</a></p>
+	<b>|</b> <a target='_blank' href="https://twitter.com/{{site.twitter_username}}">@{{site.twitter_username}}</a>
+	{% endif %}
+	{% if site.strava %}
+		<style>
+  .strava-badge- { display: inline-block; height: 16px; }
+  .strava-badge- img { visibility: hidden; height: 16px; }
+  .strava-badge-:hover { background-position: 0 -31px; }
+  .strava-badge-follow { height: 16px; width: 16px; background: url(//badges.strava.com/echelon-sprite-16.png) no-repeat 0 0; }
+</style>
+		<b> | </b>	<a href="http://strava.com/athletes/13982993/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-16.png" alt="Strava" /></a>
 	{% endif %}
 	{% if site.location %}
-	<p>{{site.location}}</p>
+		<b> | </b>{{site.location}}
 	{% endif %}
-	<br>
+	</p>
 </footer>

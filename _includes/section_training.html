@@ -1,0 +1,57 @@
+{% if site.training %}
+	<div id="coursesBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1>Online Courses</h1>
+		</div>
+		<div class="content-rounded-panel">
+			<div id="courseraPanel">
+				{% for course in site.training.courses %}
+				<div class="row">
+					<div class="col-sm-4">
+						<img src="{{course.optionalimage}}">
+					</div>
+					<div class="col-sm-4">
+						<a target="_blank" href="{{course.link}}">{{course.title}}</a>
+						<br />
+						<i>{{course.date}}</i>
+					</div>
+					<div class="col-sm-4">
+						<a target="_blank" href="{{course.certificate}}">Course Certificate</a>
+						<br />
+					</div>
+
+				</div>
+				<br/>
+				{% endfor %}
+			</div>
+
+
+<!--				{% for course in site.training.courses %}-->
+<!--				<div class="row">-->
+<!--					{% if course.optionalimage %}-->
+<!--						<div class="col-sm-5">-->
+<!--							<img src="{{course.optionalimage}}">-->
+<!--						</div>-->
+<!--					{% endif %}-->
+<!--					<div class="col-sm-6">-->
+<!--						<a target='_blank' href="{{course.link}}">-->
+<!--							{{course.title}}-->
+<!--						</a><br/>-->
+<!--						<i>{{course.date}}</i>-->
+<!--					</div>-->
+<!--				</div><br/>-->
+<!--				{% endfor %}-->
+			</div>
+		</div>
+{% endif %}
+
+<!--
+<details>
+					<summary>{{course.title}}</summary>
+
+					<div class="col-sm-5">
+						<a target='_blank' href="{{course.link}}">{{course.title}}</a><br/>
+						<i>{{course.date}}</i>
+					</div>
+				</details>
+-->

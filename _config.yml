@@ -4,6 +4,7 @@ twitter_username: GyanMishra3
 email: gyan.mishra@gmail.com
 name: Gyan Mishra
 location: Millburn, NJ
+strava: Yes
 
 # Build settings
 markdown: kramdown
@@ -67,17 +68,19 @@ education:
    school: IGNOU
 
 #This section is optional (as is the image link below)
-# coursera:
-#    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-#    courses:
-#     - title: Functional Programming Principles in Scala
-#       link: https://www.coursera.org/course/progfun
-#       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-#       date: September 16, 2013
-#     - title: Algorithms Design and Analysis, Part 1
-#       link: https://www.coursera.org/specializations/algorithms
-#       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-#       date: April 28, 2014
+training:
+#    profileurl:
+    courses:
+     - title: Learning Python
+       link: https://www.linkedin.com/learning/learning-python/learning-python
+       optionalimage: https://media-exp1.licdn.com/dms/image/C4D0DAQEpEdHoiYkBiQ/learning-public-crop_144_256/0/1592866184809?e=1615518000&v=beta&t=VWZR0GSkui8KRLDAveRXzD4uRyCFN6ZP7Yn723HwRkA
+       date: Jan 15, 2021
+       certificate: ./img/LearningPython.pdf
+     - title: Agile Foundations
+       link: https://www.linkedin.com/learning/agile-foundations/understanding-agile
+       optionalimage: https://media-exp1.licdn.com/dms/image/C4E0DAQFTwcjoO0zcIw/learning-public-crop_144_256/0/1567118206893?e=1615140000&v=beta&t=ksVfE--g080lKrmlW1v4rpD_WMqlk-FXRVF4gNFiiYA
+       date: Jan 19, 2021
+       certificate: ./img/AgileFoundations.pdf
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
