@@ -20,12 +20,12 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Java
+ - C++
  - Agile
  - Product management
  - API design
  - SQL
  - REST
- - Pega
  - Technical Architecture
  - Machine learning
  - Microservices
@@ -35,9 +35,14 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
+- title: Technical Lead
+  start: 2021
+  end: ongoing
+  employer: Bloomberg LP
+  description: TL for BuySide Post trade messaging team responsible for design, development and strategy for Matching and Settlement workflow.
  - title: Executive Director
    start: 2007
-   end: Ongoing
+   end: 2021
    employer: Morgan Stanley (NY)
    description: Oversee, Support and manage Tech leads for extending Morgan Stanley’s Institutional Client KYC and Client Onboarding platform.
  - title: Senior Associate
@@ -116,10 +121,11 @@ linkedinprofile:
      profileurl: https://www.linkedin.com/in/mishragyan?trk=profile-badge
 
 intro: |
-  I am an engineer manager with 18 years experience working in technology. I have primarily worked in Banking and Financial institutions in middle office, regulatory and compliance division. <br/><br/>
-  I am highly collaborative and innovative in building highly scalable distributed applications with a passion for first-in-class engineering principles, clean extensible interfaces, code simplicity, system maintainability and testability. <br/><br/>
+  I am an engineer manager with 20+ experience working in technology. I have primarily worked in Banking and Financial institutions in post trade,
+  middle office, regulatory and compliance division. <br/><br/>
+  I am highly collaborative, hands-on and innovative in building highly scalable distributed applications with a passion for first-in-class engineering principles, clean extensible interfaces, code simplicity, system maintainability and testability. <br/><br/>
   I am well versed in building consensus, thinking big picture and handling ambiguity. I am also an empathetic leader who believes in the immense potential of investing in people and teamwork. <br/><br/>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Client Onboarding and KYC</strong>: In my current role I am responsible for overall technical design and delivery of renovated platform to achieve Sustainable state program for Data and Document refresh for clients in scope for KYC. Key goal of the project were to meet a commitment to Federal Reserve bank to achieve timely completion of KYC regulations.<br/><br/>
+   <strong>Post trade messaging</strong>: In my current role I am responsible for overall technical design and delivery of migrating all the buyside post trade messaging platform like Ctm, Swift, Fix connecivity to the distributed micro-services plaform running on Linux. Key goal of the project was to deprecte 25+ year old legacy Solaris services and build a new client workflow that is scalable to any messaging platform and provide enhanced client experience.<br/><br/>
    
