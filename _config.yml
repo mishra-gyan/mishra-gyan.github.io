@@ -35,11 +35,11 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
-- title: Technical Lead
-  start: 2021
-  end: ongoing
-  employer: Bloomberg LP
-  description: TL for BuySide Post trade messaging team responsible for design, development and strategy for Matching and Settlement workflow.
+ - title: Technical Lead
+   start: 2021
+   end: ongoing
+   employer: Bloomberg LP
+   description: TL for BuySide Post trade messaging team responsible for design, development and strategy for Matching and Settlement workflow.
  - title: Executive Director
    start: 2007
    end: 2021
