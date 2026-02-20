@@ -127,5 +127,7 @@ intro: |
   I am well versed in building consensus, thinking big picture and handling ambiguity. I am also an empathetic leader who believes in the immense potential of investing in people and teamwork. <br/><br/>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Post trade messaging</strong>: In my current role I am responsible for overall technical design and delivery of migrating all the buyside post trade messaging platform like Ctm, Swift, Fix connecivity to the distributed micro-services plaform running on Linux. Key goal of the project was to deprecte 25+ year old legacy Solaris services and build a new client workflow that is scalable to any messaging platform and provide enhanced client experience.<br/><br/>
+   <strong>Post trade messaging</strong>: In my current role I am responsible for overall technical design and delivery of migrating all the buyside post trade messaging platform like Ctm, Swift, Fix connecivity to the distributed micro-services plaform running on Linux. 
+   Key goal of the project was to deprecte 25+ year old legacy Solaris services and build a new client workflow that is scalable to any messaging platform and provide enhanced client experience.  <br/>
+   In addition I also led the migration of ISO 20022 CBPR+ Swift Cash Payment message to latest MX standard. <br/><br/>
    
